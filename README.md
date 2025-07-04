@@ -2,7 +2,7 @@
 
 # Survey Analysis Dashboard | Power BI
 
-Personal Notes:
+# Personal Notes:
 
 This was my first project as an aspiring data analytics student, and I chose it to explore the survey responses of data professionals in order to gain insights into the industry and better understand their experiences, backgrounds, and career demographics.
 Thank you for taking the time to review my project. I truly appreciate your interest, and I hope the insights provided were both valuable and engaging. Your feedback is always welcome as I continue to grow and learn in my data analytics journey.
@@ -13,16 +13,16 @@ My Website:https://alptheanalyst.wixsite.com/alptuna
 
 My E-Mail:alptuna.professional@gmail.com
 
-1.Overview
+# 1.Overview
 This Power BI project analyzes responses from a structured survey to extract key insights and visualize participant feedback across various dimensions. The goal was to identify patterns in participant satisfaction, engagement, and demographics to support data-driven decision-making.
 
-2. Data Overview
+# 2. Data Overview
 To analyze survey responses collected from participants on various topics such as satisfaction, demographics, preference. The goal is to uncover actionable insights and present them through an interactive and engaging dashboard.
 
-3. Data Set Overview
+# 3. Data Set Overview
 I explained the data set in detail.:https://www.kaggle.com/datasets/alptheanalyst/data-professionals-survey
 
-4. Data Preparation
+# 4. Data Preparation
 The columns Email (has only one value), Browser, OS, City, Country, and Referrer were empty, so they were removed from the CSV file.
 
 Column names were originally survey questions and have been shortened using keywords. For example: "Q1 - Which Title Best Fits your Current Role?" was renamed to "Current Title" (as was done for most columns).
@@ -37,7 +37,7 @@ Salary information was provided in ranges. I split these into two columns (minim
 
 To get the overall average happiness score for the Data Analytics professionals, I created a new column and used a DAX formula to calculate the average of all relevant score values.
 
-5.Dashboard Pages& 6.Insights
+# 5.Dashboard Pages& 6.Insights
 page_1.png
 
 PAGE 1-Visuals
@@ -59,7 +59,7 @@ Upward Mobility – Gauge
 
 Countries by Average Scores – Table-style bar chart (with Average Satisfaction & Age)
 
-PAGE 1-Insights
+# PAGE 1-Insights
 Average Salary by Industry:Healthcare leads with 64.4K. Other high-paying: Finance, Real Estate, and Education. Lowest-paid: Telecommunication (40.4K)
 
 Happinees Scores:Overall Happiness: 5.26. Highest-rated dimensions: Coworkers (5.86) and Work/Life Balance (5.75) Lowest-rated dimension: Salary (4.27)
@@ -68,7 +68,7 @@ Country Breakdown:Top 5 happiest countries: Vietnam – 8.17 (Avg. Age: 24) Chil
 
 page_2.png
 
-PAGE 2-Visual
+# PAGE 2-Visual
 Gender Distribution of Participants – Pie chart
 
 Difficulty of Breaking into Data Analytics – Donut chart
@@ -79,7 +79,7 @@ Highest Level of Education – Vertical bar chart
 
 Data Professional Distribution by Industries – Vertical bar chart
 
-PAGE 2-Insights
+# PAGE 2-Insights
 Gender Distribution:The data suggests that the field is male-dominated, with 74.29% male and only 25.71% female representation.
 
 Difficulty of Breaking into Data Analytics:The majority of respondents (269 individuals) found entering the industry to be neither easy nor difficult, suggesting a moderate entry barrier.
@@ -92,7 +92,7 @@ Data Professional Distribution by Industries:The largest group of professionals 
 
 page_3.png
 
-PAGE 3-Visuals
+# PAGE 3-Visuals
 Reason for Moving to New Work – Tree map
 
 Favorite Programming Language by Title – Matrix-style table
@@ -101,7 +101,7 @@ Average Salary and Salary Happiness Comparison – Bar + Line chart combo
 
 Average Salary by Title – Horizontal bar chart
 
-PAGE 3-Insights
+# PAGE 3-Insights
 Why People Change Jobs Better Salary is the top reason (297 respondents).Remote Work (127), Work/Life Balance (117). Culture and “Other” reasons are much less significant.
 
 Programming Language Preferences Python dominates (420 total mentions), especially among the title of Data Analysts (255) R and JavaScript are also used but to a much lesser extent. C/C++, Java, and “Other” languages have niche use.
@@ -110,14 +110,14 @@ Salary vs. Happiness Data Scientists earn the most (87.16K) and report the highe
 
 Title-Based Salaries Top average salaries: Data Scientist: 87K Data Architect: 64K Data Engineer: 61K Lowest: Student/Looking/None: 27K As the data shows, Data Scientists earn the highest average salary among all data professionals.
 
-6.Challenges&TakeAways
+# 6.Challenges&TakeAways
 Many user-submitted entries required standardization. However, performing these data cleaning steps within Power BI posed significant challenges, particularly due to its limited capabilities for large-scale text normalization. In future projects, I would likely use SQL for data cleaning to streamline the process and improve efficiency.
 
 For instance, salary ranges had to be converted into discrete numeric values to enable the use of DAX formulas in visualizations. Having precise numerical data instead of ranges is far more beneficial for efficient and accurate data analysis.
 
 The dataset is relatively small, which highlighted the importance of working with larger, more balanced datasets. I also realized how data imbalance can easily lead to misleading insights. For instance, Vietnam ranked as the top country in overall happiness—but this was based on just one respondent, making the result statistically unreliable.
 
-7.Conclusion
+# 7.Conclusion
 Overall, the dataset offered valuable insights into the backgrounds, experiences, and career trajectories of data professionals. While Power BI demonstrated strong capabilities in visualization and dashboard creation, it is less suited for extensive data cleaning or complex transformations—particularly when handling inconsistent text entries or requiring large-scale data normalization. For future projects, preprocessing data using tools such as SQL or Python would improve efficiency and lead to cleaner, more accurate analyses within Power BI. Nonetheless, exploring Power BI's features and capabilities was an enjoyable and informative experience.
 
 To improve this project further, incorporating:
