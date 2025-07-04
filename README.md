@@ -38,7 +38,8 @@ Salary information was provided in ranges. I split these into two columns (minim
 To get the overall average happiness score for the Data Analytics professionals, I created a new column and used a DAX formula to calculate the average of all relevant score values.
 
 # 5.Dashboard Pages& 6.Insights
-page_1.png
+![Survey Analytics Dashboards-images-2](https://github.com/user-attachments/assets/fb9a6fde-1814-4ebe-94aa-176c6d7fb9cc)
+
 
 PAGE 1-Visuals
 Average Salary by Industry – Line chart with shaded area
@@ -66,7 +67,8 @@ Happinees Scores:Overall Happiness: 5.26. Highest-rated dimensions: Coworkers (5
 
 Country Breakdown:Top 5 happiest countries: Vietnam – 8.17 (Avg. Age: 24) Chile – 7.75 Iraq – 7.67 Serbia – 7.67 Finland – 7.17
 
-page_2.png
+![Survey Analytics Dashboards-images-3](https://github.com/user-attachments/assets/44a513b9-48ba-4301-8a3f-8f65cf4de5b7)
+
 
 # PAGE 2-Visual
 Gender Distribution of Participants – Pie chart
@@ -90,7 +92,7 @@ Highest Level of Education:Most professionals hold a bachelor’s degree (329 re
 
 Data Professional Distribution by Industries:The largest group of professionals work in "Other" industries (205), followed by Tech (150), Finance (97), and Healthcare (84), showing the wide applicability of data analytics across sectors.
 
-page_3.png
+![Survey Analytics Dashboards-images-4](https://github.com/user-attachments/assets/edab753e-7fdb-4523-b677-272335c64099)
 
 # PAGE 3-Visuals
 Reason for Moving to New Work – Tree map
