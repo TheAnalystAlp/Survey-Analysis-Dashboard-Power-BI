@@ -41,8 +41,7 @@ To get the overall average happiness score for the Data Analytics professionals,
 # 5.Dashboard Pages& 6.Insights
 ![Survey Analytics Dashboards-images-2](https://github.com/user-attachments/assets/fb9a6fde-1814-4ebe-94aa-176c6d7fb9cc)
 
-
-PAGE 1-Visuals
+# PAGE 1-Visuals
 Average Salary by Industry – Line chart with shaded area
 
 Overall Average Happiness – Gauge chart
