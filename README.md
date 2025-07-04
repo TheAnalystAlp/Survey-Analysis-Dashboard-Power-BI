@@ -1,1 +1,1 @@
-<img width="729" alt="Capture" src="https://github.com/user-attachments/assets/b5675d37-2bc1-4b74-b317-fa7772314071" />
+![combined_survey_dashboards (1)](https://github.com/user-attachments/assets/0b967af3-32be-46f8-8b02-a55719b1b130)
