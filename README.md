@@ -23,6 +23,7 @@ Success in data analytics isn’t defined solely by technical ability — career
 * Target roles that offer meaningful, high-impact work (Data Scientist's average salary and salary happinnes is more than DataBase Developer)
 * Prioritize companies with strong work culture and flexibility (Highest-rated dimensions: Coworkers (5.86) and Work/Life Balance (5.75))
 * Leverage non-traditional backgrounds — it’s a strength, not a barrierr(A majority of professionals didn’t start in data analytics — they came from other fields.Formal * e* education beyond a bachelor’s isn’t required in most cases.
+
 Feel free to reach me at;
 Linkedin:www.linkedin.com/in/alp-tuna
 
