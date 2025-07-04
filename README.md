@@ -1,7 +1,8 @@
 ![SURVEY ANALYSIS DASHBOARD SLIDES BANNER](https://github.com/user-attachments/assets/48c9a737-cc98-4ae1-a198-ed92a7c200e6)
 # 1.Overview
 
-This Power BI project analyzes responses from a structured survey to extract key insights and visualize participant feedback across various dimensions. The goal was to identify patterns in participant satisfaction, engagement, and demographics to support data-driven decision-making.
+This Power BI project was created to go beyond surface-level analytics and explore what truly drives satisfaction and success in the data industry.
+By analyzing survey responses from working professionals, the project aims to uncover which tools matter most, what roles offer the most career growth, how workplace culture impacts happiness, and what newcomers should prioritize when entering the field. The final insights help answer not just what the current landscape looks like — but why it matters for anyone building a career in data.
 
 # 2. Data Preparation
 * The columns Email (has only one value), Browser, OS, City, Country, and Referrer were empty, so they were removed from the CSV file.
