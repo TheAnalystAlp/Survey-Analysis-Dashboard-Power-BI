@@ -31,4 +31,4 @@ My Website:https://alptheanalyst.wixsite.com/alptuna
 
 My E-Mail:alptuna.professional@gmail.com
 
-Colab paid products - Cancel contracts here
+Link for Power BI file https://colab.research.google.com/drive/1Q6cBY6J0jzbqJPBH8EROzyg9HDgf1kiU?usp=sharing
