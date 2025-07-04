@@ -4,13 +4,14 @@
 This Power BI project analyzes responses from a structured survey to extract key insights and visualize participant feedback across various dimensions. The goal was to identify patterns in participant satisfaction, engagement, and demographics to support data-driven decision-making.
 
 # 2. Data Preparation
-The columns Email (has only one value), Browser, OS, City, Country, and Referrer were empty, so they were removed from the CSV file.
+* The columns Email (has only one value), Browser, OS, City, Country, and Referrer were empty, so they were removed from the CSV file.
 
-Column names were originally survey questions and have been shortened using keywords. For example: "Q1 - Which Title Best Fits your Current Role?" was renamed to "Current Title" (as was done for most columns).
+* Column names were originally survey questions and have been shortened using keywords.
+For example: "Q1 - Which Title Best Fits your Current Role?" was renamed to "Current Title" (as was done for most columns).
 
-The column "Q1 - Which Title Best Fits your Current Role?" contained values like "Other (Please Specify): Manager, Business Intelligence Developer" and "Other (Please Specify): Business Analyst", which made the data unstandardized. I split these entries and created a new column for "Other" (as this was user-inputted text), then merged all values into a standardized format.This process was applied to several other columns where users could choose the 'Select' option from a dropdown list in the survey and enter custom text
+* The column "Q1 - Which Title Best Fits your Current Role?" contained values like "Other (Please Specify): Manager, Business Intelligence Developer" and "Other (Please Specify): Business Analyst", which made the data unstandardized. I split these entries and created a new column for "Other" (as this was user-inputted text), then merged all values into a standardized format.This process was applied to several other columns where users could choose the 'Select' option from a dropdown list in the survey and enter custom text
 
-Entries in "Q11 - Which country do you live in?" have been corrected,using find and replace feature of Power BI, as some were entered incorrectly.
+* Entries in "Q11 - Which country do you live in?" have been corrected,using find and replace feature of Power BI, as some were entered incorrectly.
 
 # 3.Challenges&TakeAways during Analysis
 * Many user-submitted entries required standardization. However, performing thesedata cleaning steps within Power BI posed significant challenges, particularly due to its limited capabilities for large-scale text normalization. 
