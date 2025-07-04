@@ -7,6 +7,7 @@
 This was my first project as an aspiring data analytics student, and I chose it to explore the survey responses of data professionals in order to gain insights into the industry and better understand their experiences, backgrounds, and career demographics.
 Thank you for taking the time to review my project. I truly appreciate your interest, and I hope the insights provided were both valuable and engaging. Your feedback is always welcome as I continue to grow and learn in my data analytics journey.
 Feel free to give me feedback on;
+
 Linkedin:www.linkedin.com/in/alp-tuna
 
 My Website:https://alptheanalyst.wixsite.com/alptuna
