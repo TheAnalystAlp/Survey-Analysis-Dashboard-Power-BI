@@ -1,4 +1,6 @@
 ![SURVEY ANALYSIS DASHBOARD SLIDES BANNER](https://github.com/user-attachments/assets/48c9a737-cc98-4ae1-a198-ed92a7c200e6)
+To reach extended report:https://github.com/TheAnalystAlp/Survey-Analysis-Dashboard-Power-BI/blob/main/Survey_Analytics_Dashboards_PowerBI_Extended_Report.ipynb 
+
 # 1.Overview
 
 This Power BI project was created to go beyond surface-level analytics and explore what truly drives satisfaction and success in the data industry.
