@@ -31,9 +31,6 @@ Success in data analytics isn’t defined solely by technical ability — career
 
 Feel free to reach me at;
 Linkedin:www.linkedin.com/in/alp-tuna
-
 My Website:https://alptheanalyst.wixsite.com/alptuna
-
 My E-Mail:alptuna.professional@gmail.com
 
-Link for Power BI file [https://colab.research.google.com/drive/1Q6cBY6J0jzbqJPBH8EROzyg9HDgf1kiU?usp=sharing](https://drive.google.com/file/d/1GBMj72YDzhYTp4PXNt91F-VuVbXJPjuW/view?usp=sharing)
