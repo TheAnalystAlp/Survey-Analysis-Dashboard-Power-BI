@@ -20,15 +20,15 @@ For example: "Q1 - Which Title Best Fits your Current Role?" was renamed to "Cur
 
 # 3.Challenges&TakeAways during Analysis
 * Many user-submitted **entries required standardization** . However, performing these ** data cleaning steps within Power BI**  posed significant challenges, particularly due to its limited capabilities for large-scale text normalization. 
-* In future projects, I would likely use ** SQL for data cleaning to streamline the process**  and improve efficiency.For instance, salary ranges had to be converted into discrete numeric values to enable the use of DAX formulas in visualizations. Having precise numerical data instead of ranges is far more beneficial for efficient and accurate data analysis.
+* In future projects, I would likely use **SQL for data cleaning to streamline the process**  and improve efficiency.For instance, salary ranges had to be converted into discrete numeric values to enable the use of DAX formulas in visualizations. Having precise numerical data instead of ranges is far more beneficial for efficient and accurate data analysis.
 * The dataset is relatively small, which highlighted the importance of working with larger, more balanced datasets.**I also realized how data imbalance can easily lead to misleading insights. For instance, Vietnam ranked as the top country in overall happiness—but this was based on just one respondent, making the result statistically unreliable.**)
 # 4. Conclusion & Recommendations
 Success in data analytics isn’t defined solely by technical ability — career satisfaction stems from culture, balance, and opportunity for growth. To thrive, professionals (or those entering the field) should:
 
-* Develop ** Python**  proficiency(Its the most commonly used tool)** 
+* Develop **Python**  proficiency(Its the most commonly used tool)
 * Target roles that ** offer meaningful, high-impact work** (Data Scientist's average salary and salary happinnes is more than DataBase Developer)
 * Prioritize companies with strong work culture and flexibility (Highest-rated dimensions: Coworkers (5.86) and Work/Life Balance (5.75))
-* Leverage non-traditional backgrounds — ** it’s a strength, not a barrierr** (A majority of professionals didn’t start in data analytics — **they came from other fields.Formal education beyond a bachelor’s isn’t required in most cases.** )
+* Leverage non-traditional backgrounds — **it’s a strength, not a barrierr** (A majority of professionals didn’t start in data analytics — **they came from other fields.Formal education beyond a bachelor’s isn’t required in most cases.** )
 
 Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
 
