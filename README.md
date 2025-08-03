@@ -1,6 +1,7 @@
 <p align="center"!>[SURVEY ANALYSIS DASHBOARD SLIDES BANNER](https://github.com/user-attachments/assets/48c9a737-cc98-4ae1-a198-ed92a7c200e6)
 To reach extended report:
-https://github.com/TheAnalystAlp/Survey-Analysis-Dashboard-Power-BI/blob/main/Survey_Analytics_Dashboards_PowerBI_Extended_Report.ipynb 
+
+  https://github.com/TheAnalystAlp/Survey-Analysis-Dashboard-Power-BI/blob/main/Survey_Analytics_Dashboards_PowerBI_Extended_Report.ipynb 
 
 # 1.Overview
 
