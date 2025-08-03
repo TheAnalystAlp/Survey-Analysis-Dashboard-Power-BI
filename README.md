@@ -29,11 +29,10 @@ Success in data analytics isn’t defined solely by technical ability — career
 * Prioritize companies with strong work culture and flexibility (Highest-rated dimensions: Coworkers (5.86) and Work/Life Balance (5.75))
 * Leverage non-traditional backgrounds — it’s a strength, not a barrierr(A majority of professionals didn’t start in data analytics — they came from other fields.Formal education beyond a bachelor’s isn’t required in most cases.
 
-Feel free to reach me at;
-
-Linkedin:www.linkedin.com/in/alp-tuna
+Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
 
 My Website:https://alptheanalyst.wixsite.com/alptuna
 
 My E-Mail:alptuna.professional@gmail.com
 
+Link for the Colab file:https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA 
